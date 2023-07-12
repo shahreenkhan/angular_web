@@ -1,0 +1,19 @@
+.navbar{
+    background-color: #005555;
+ }
+
+.logo{
+    font-size: 24px;
+    color: rgba(255, 255, 255, 0.8) !important;
+    font-weight: 500;
+}
+.nav-link{
+    color: aliceblue;
+    font-family: cursive;
+}
+/* @media only screen and (max-width: 800px){
+    body{
+        text-align: center;
+    }
+} */
+    
